@@ -1,0 +1,16 @@
+{
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "exec": "ts-node src/index.ts",
+  "ext": "ts,json",
+  "ignore": [
+    ".git",
+    "node_modules/**"
+  ],
+  "quiet": true,
+  "restartable": "rs",
+  "watch": [
+    "src"
+  ]
+}

@@ -1,0 +1,1902 @@
+[
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 0
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 1
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/delegate"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 2
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/delegate/initDone"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 3
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/snmp-command"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 4
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/snmp-command/command"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 5
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/snmp-command/start"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 6
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/snmp-command/reply"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 7
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/actions:actions/snmp-command/completed"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 8
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "Admin container.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 9
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "CLI container",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/cli"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 10
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{enabled,disabled,} : default disabled",
+      "type" : "common-types:status",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Configure alarm delivery to the cli",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/cli/alarm-delivery"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 11
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "SNMP container.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 12
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "List of local SNMP user accounts.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 13
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:snmpName",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "Local SNMP user name.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/name"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 14
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{v2c,v3,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMP version to associated with this account; v2c or v3.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/version"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 15
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{read-only,read-write,}",
+      "type" : "admin:accessLevel",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMP access for community based ",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/access-level"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 16
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{none,auth,auth-priv,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMPv3 security level; none, auth or auth-priv",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/security-level"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 17
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{md5,sha,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMPv3 authentication encryption algorithm; md5 or sha",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/auth-encryption"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 18
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:encryptionString",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMPv3 authentication passphrase.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/auth-password"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 19
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{des56,aes128,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMPv3 privacy encryption algorithm; des56 or aes128",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/priv-encryption"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 20
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:encryptionString",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMPv3 privacy passphrase.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/user[name]/priv-password"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 21
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "List of SNMP managers.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 22
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:snmpName",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "Host name of SNMP manager.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/name"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 23
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "",
+      "type" : "ietf-inet-types:ip-address",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Address for SNMP manager; either ipv4 or ipv6",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/hostname"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 24
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint16:162 | 1025..65535:default 162",
+      "type" : "uint16",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Port on SNMP manager to which to send SNMP PDUs.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/port"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 25
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{v1,v2,v3,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "SNMP protocol version to use with manager.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/version"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 26
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{none,auth,auth-priv,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Security level to user with manager.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/security-level"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 27
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{md5,sha,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/auth-encryption"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 28
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:encryptionString",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/auth-password"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 29
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{des56,aes128,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/priv-encryption"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 30
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "admin:encryptionString",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/snmp/host[name]/priv-password"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 31
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "Local user account administration container.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/users"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 32
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "Local user account list.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/users/user[name]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 33
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{3..32,[A-Za-z_][A-Za-z0-9_-]*,}",
+      "type" : "string",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "Unique user name for this local account.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/users/user[name]/name"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 34
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Unique password to assign for this local account.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/users/user[name]/password"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 35
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{read-only,read-write,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "The group of permissions to assign to this user; read-only access level, or read-write access level.",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/users/user[name]/group"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 49
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 50
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{local,} : default local",
+      "type" : "admin:authenticationType",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/authentication"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 51
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{local,} : default local",
+      "type" : "admin:authenticationType",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/internal-auth"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 52
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 53
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius/server[ip]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 54
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "",
+      "type" : "ietf-inet-types:ip-address",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius/server[ip]/ip"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 55
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "tailf-common:aes-cfb-128-encrypted-string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius/server[ip]/shared-secret"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 56
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:5..120:default 5",
+      "type" : "uint8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius/timeout"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 57
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:1..10:default 3",
+      "type" : "uint8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/radius/retries"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 58
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 59
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/server[ip]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 60
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "",
+      "type" : "ietf-inet-types:ip-address",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/server[ip]/ip"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 61
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "tailf-common:aes-cfb-128-encrypted-string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/server[ip]/key"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 62
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint16:49 | 1025..65535:default 49",
+      "type" : "uint16",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/server[ip]/port"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 63
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:5..30:default 5",
+      "type" : "uint8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/timeout"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 64
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:1..5:default 3",
+      "type" : "uint8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/admin:admin/aaa/tacacs-plus/retries"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 65
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 66
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/certificate"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 67
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 68
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{1..128,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "CBSD User identification number",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/user-id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 69
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{1..32,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Federal Communications Commission (FCC) identification (ID) number. This value is automatically populated by the system. For FW-300i, the value is ROR00000005.",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/fcc-id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 70
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{e_utra,cambium_networks,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/radio-tech"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 71
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..255,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Spectrum Access System (SAS) database server URL",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/sas-server-url"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 72
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "CBSD device can register itself to SAS server either by using a multi-step registration or single step-registration.",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/multi-step-reg"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 73
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/cpi-preloaded"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 74
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..1024,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/cpi-public-key"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 75
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..256,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Certified Professional Installer ID of the user who is certified to install and perform necessary changes to the CBSD device.",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/cpi-id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 76
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..256,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "The name of the user who holds valid CPI ID",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/cpi-name"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 77
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Full spectrum request if enabled asks SAS for all the available channels by sending a spectrum inquiry request",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/full-spectrum-request"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 78
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/channel-scanning"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 79
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "int8:-10..37:default 0",
+      "type" : "int8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/min-scan-max-eirp"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 80
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "int16:-130..-90:default -120",
+      "type" : "int16",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/noise-threshold"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 81
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "int16:-130..-90:default -115",
+      "type" : "int16",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/noise-threshold-high"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 82
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/multi-grant"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 83
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..16384,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/cpi-data"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 84
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/common/persistent-grant"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 85
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 86
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 87
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{a,b,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "CBSD units are classified category A or category B device. Not configurable.",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/category"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 88
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "tailf-xsd-types:double",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "eNB latitude",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/latitude"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 89
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "tailf-xsd-types:double",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "eNB longitude",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/longitude"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 90
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string",
+      "type" : "tailf-xsd-types:double",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "Height of eNB based on type of height.",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/height"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 91
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{agl,amsl,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "height; options are: above ground level (AGL) or altitude/elevation above mean sea level (AMSL)",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/height-type"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 92
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:default 1",
+      "type" : "tailf-xsd-types:double",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "horizontal accuracy",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/h-accuracy"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 93
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:default 1",
+      "type" : "tailf-xsd-types:double",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "vertical accuracy",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/v-accuracy"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 94
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/indoor-deployment"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 95
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/meas-capability-list[capid]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 96
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:0..1",
+      "type" : "uint8",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/meas-capability-list[capid]/capid"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 97
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{received_power_without_grant,received_power_with_grant,}",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/meas-capability-list[capid]/capability"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 98
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "enumeration:{interference-coordination,group-type-none,} : default group-type-none",
+      "type" : "enumeration",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/group-type"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 99
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{1..8,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/group-id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 100
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..256,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/freq-blacklist"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 101
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..64,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/protected-header"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 102
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..1024,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/encoded-data"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 103
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{0..1024,}",
+      "type" : "string",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/cpi-signature"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 104
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "list",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/groups[cbsd-index][group-type][group-id]"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 105
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:0..7",
+      "type" : "uint8",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/groups[cbsd-index][group-type][group-id]/cbsd-index"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 106
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{1..64,}",
+      "type" : "string",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/groups[cbsd-index][group-type][group-id]/group-type"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 107
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "string:{1..64,}",
+      "type" : "string",
+      "key" : "key",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cbsd:cbsd/enb/groups[cbsd-index][group-type][group-id]/group-id"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 108
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "nil",
+      "type" : "nil",
+      "key" : "",
+      "keyword" : "container",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cell:cell"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 109
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint8:0..6:default 3",
+      "type" : "uint8",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cell:cell/num-sectors"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 110
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "uint16:0..288:default 288",
+      "type" : "uint16",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cell:cell/max-ues"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 111
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cell:cell/identity-track"
+    }
+  },
+  {
+    "_index" : "meta",
+    "_type" : "_doc",
+    "_id" : "4W_HmnoBXkdnYKe4Ne8g",
+    "_nested" : {
+      "field" : "deviceMeta.yang",
+      "offset" : 112
+    },
+    "_score" : 0.5924298,
+    "_source" : {
+      "primitive_type" : "boolean",
+      "type" : "boolean",
+      "key" : "",
+      "keyword" : "leaf",
+      "description" : "",
+      "flag" : "rw",
+      "xpath" : "/cell:cell/force-pcell-zero"
+    }
+  }
+]
